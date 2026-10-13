@@ -1,0 +1,6 @@
+{
+  "name": "Sophia Ysabel Juan | Interactive Tamagotchi Portfolio & CMS",
+  "description": "Interactive retro developer portfolio for Sophia Ysabel M. Juan (Asia Pacific College IT student) featuring a movable Tamagotchi gray cat pet, tech stack gallery, project showcase, guestbook, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
